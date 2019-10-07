@@ -10,7 +10,7 @@ Write the function that takes an array as an argument and returns the number wit
 
 'There are 6 numbers in the array. Each number enters only once.'
 
-const arr2 = [1, 7, 3, 2, 3, 1, 6, 3];
+**const arr2 = [1, 7, 3, 2, 3, 1, 6, 3];**
 
 === _Output_: ===
 
